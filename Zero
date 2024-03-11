@@ -1,4 +1,4 @@
-Username= 'Username'
+Username= 'Usernam'
 Webhook= 'https://discord.com/api/webhooks/x/x'
 
 MinimumRAP = 500000
